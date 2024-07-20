@@ -24,9 +24,9 @@ Un juego interactivo de memoria desarrollado con React Native. Este proyecto pon
 
 ## 🛠 Tecnologías y Herramientas
 
-- **Lenguajes**: TypeScript, JavaScript, Python, Java, Html5, Css3, React, React Native
+- **Lenguajes**: TypeScript, JavaScript, Python, Java, Html5, Css3
 - **Bases de Datos**: PostgreSQL, MySQL, MongoDB
-- **Frameworks y Librerías**: Express.js, Next.js, FastAPI, Django
+- **Frameworks y Librerías**: Express.js, Next.js, FastAPI, Django, React, React Native, Boostrap5 y Tailwind css
 - **ORMs y ODMs**: Sequelize, Mongoose
 
 ## 📫 Conéctate Conmigo
