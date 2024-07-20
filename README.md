@@ -5,7 +5,7 @@ Soy un **Backend Developer** especializado en TypeScript, JavaScript, Python, y 
 ## 🌟 Proyectos Principales
 
 ### Whisper y PHI3 Integration Project
-Un proyecto que integra Whisper para la transcripción automática de audio con un sistema PHI3 para la gestión de archivos y datos. Incluye un servidor FastAPI para la transcripción de audio y un servidor Express.js para la integración con PHI3, junto con un frontend construido con React y Vite.
+Un proyecto que integra Whisper para la transcripción automática de audio juntamente con el modelo de lenguaje PHI3. Incluye un servidor FastAPI para la transcripción de audio y un servidor Express.js para la integración con PHI3, junto con un frontend construido con React y Vite.
 
 ### Sistema de Gestión de Expedientes Judiciales
 Un sistema integral para la gestión de expedientes judiciales que permite la administración eficiente de casos, documentos y seguimiento del estado de los expedientes. Implementado utilizando tecnologías robustas para asegurar la integridad y disponibilidad de la información.
