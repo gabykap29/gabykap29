@@ -1,6 +1,6 @@
 # 👋 Bienvenido a mi perfil de GitHub
 
-Soy **Desarrollador de Software Backend** y **Técnico Superior en Desarrollo de Software Multiplataforma**, especializado en **TypeScript**, **JavaScript**, **Python** y con experiencia en bases de datos **SQL y NoSQL**. Me especializo en construir aplicaciones eficientes, escalables y altamente funcionales, utilizando una variedad de tecnologías y frameworks modernos.
+Soy **Desarrollador de Software Backend** con formación como **Técnico Superior en Desarrollo de Software Multiplataforma**, enfocado en la creación de soluciones eficientes, escalables y de alto rendimiento. Domíno **TypeScript**, **JavaScript** y **Python**, y estoy expandiendo mis habilidades en **concurrencia** y **desarrollo backend** con **Go**. Mi experiencia incluye el trabajo con bases de datos SQL y NoSQL.
 
 Además, tengo experiencia en el desarrollo de aplicaciones con **Inteligencia Artificial (IA)** y actualmente estoy especializándome en **Machine Learning e IA**, enfocándome en soluciones innovadoras que integren estas tecnologías.
 
