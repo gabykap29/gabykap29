@@ -1,47 +1,107 @@
-# 👋 Bienvenido a mi perfil de GitHub
+# 👋 Hola, soy Gabriel Acosta
 
-Soy **Desarrollador de Software Backend** con formación como **Técnico Superior en Desarrollo de Software Multiplataforma**, enfocado en la creación de soluciones eficientes, escalables y de alto rendimiento. Domíno **TypeScript**, **JavaScript** y **Python**, y estoy expandiendo mis habilidades en **concurrencia** y **desarrollo backend** con **Go**. Mi experiencia incluye el trabajo con bases de datos SQL y NoSQL.
+> **Backend AI Engineer** · Docente universitario · Arch Linux entusiasta 
 
-Además, tengo experiencia en el desarrollo de aplicaciones con **Inteligencia Artificial (IA)** y actualmente estoy especializándome en **Machine Learning e IA**, enfocándome en soluciones innovadoras que integren estas tecnologías.
+Soy **Técnico Superior en Desarrollo de Software** y estudiante de la **Licenciatura en Ciencia de Datos** en el **Instituto Politécnico Formosa (IPF)**, donde también me desempeño como **docente titular** de *Python para Ciencia de Datos* y del seminario *Modelos y Aplicaciones de la IA*.
 
-En este espacio podrás explorar algunos de mis proyectos principales, donde combino mis habilidades para resolver problemas complejos y aportar valor a cada desarrollo.
+Con 4 años como desarrollador y experiencia sólida en backend con IA, me especializo en construir sistemas escalables, observables y bien testeados. Mi stack principal es Python/FastAPI con LangChain y Pydantic AI, aunque me muevo con comodidad en el ecosistema TypeScript/NestJS y Next.js.
 
-## 🌟 Proyectos Principales
+---
 
-### Whisper y PHI3 Integration Project
-Un proyecto que integra Whisper para la transcripción automática de audio juntamente con el modelo de lenguaje PHI3. Incluye un servidor FastAPI para la transcripción de audio y un servidor Express.js para la integración con PHI3, junto con un frontend construido con React y Vite.
+## 🧠 Stack Principal
 
-### Sistema de Gestión de Expedientes Judiciales
-Un sistema integral para la gestión de expedientes judiciales que permite la administración eficiente de casos, documentos y seguimiento del estado de los expedientes. Implementado utilizando tecnologías robustas para asegurar la integridad y disponibilidad de la información.
+**Backend & AI**
+- 🐍 Python · FastAPI · LangChain · Pydantic AI
+- 🤖 Google Gemini · ChromaDB (RAG) · Prometheus (observabilidad)
+- 🗄️ MongoDB (Beanie, Motor, Mongoose) · PostgreSQL · Redis
+- 📬 Bull Queue · AWS SES · Nodemailer
 
-### Sistema de Gestión de Informes
-Desarrollado para facilitar la creación, edición y seguimiento de informes. Incluye funcionalidades avanzadas para la colaboración y análisis de datos, optimizando la generación de informes y la visualización de resultados.
+**Frontend & Fullstack**
+- ⚡ TypeScript · NestJS · Next.js · React
+- 🔷 Vite · Tailwind CSS · Bootstrap 5
 
-### Plataforma de Cursos con Mentor Inteligente (IA)
-Una plataforma de aprendizaje en línea que combina cursos interactivos con un mentor inteligente basado en IA. La plataforma proporciona recomendaciones personalizadas, feedback en tiempo real y una experiencia de aprendizaje adaptativa.
+**DevOps & Entorno**
+- 🐧 Arch Linux · Hyprland · Neovim · Kitty
+- 🐳 Docker · Git · Fish Shell | Bash Shell | Zsh Shell · Podman
+- 📈 Grafana · Prometheus
 
-### Sistema de Alumnado
-Un sistema completo para la gestión de estudiantes, incluyendo registro, seguimiento de rendimiento académico y generación de informes. Facilita la administración eficiente de datos y la comunicación entre estudiantes y administradores.
+**En aprendizaje activo**
+- 🔵 Go (concurrencia y backend de alto rendimiento)
+- 🎮 C# / Godot 4 (videojuegos)
 
-### Juego de Memoria con React Native
-Un juego interactivo de memoria desarrollado con React Native. Este proyecto pone a prueba tus habilidades de memoria y proporciona una experiencia de usuario envolvente y atractiva.
+---
 
-## 🛠 Tecnologías y Herramientas
+## 🚀 Proyectos Destacados
 
-- **Lenguajes**: TypeScript, JavaScript, Python, Java, Html5, Css3
-- **Bases de Datos**: PostgreSQL, MySQL, MongoDB
-- **Frameworks y Librerías**: Express.js, Next.js, FastAPI, Django, React, React Native, Boostrap5 y Tailwind css
-- **ORMs y ODMs**: Sequelize, Mongoose
+### 🎓 Aprende — Plataforma Educativa IPF
+Plataforma de cursos online para ~350 estudiantes en 4 carreras. Stack: **NestJS + Next.js + MongoDB**.
+- Sistema de notificaciones masivas con **Bull Queue + Redis + AWS SES**
+- Integración de **Cloudflare Turnstile** y verificación CAPTCHA
+- Bloqueo progresivo de usuarios con backoff y cron jobs para gestión de acceso
+- Implementación de columnas `jsonb` con TypeORM
 
-## 📫 Conéctate Conmigo
+### 🤖 Code-Train Backend — Plataforma de IA para estudiantes
+Backend de IA con **FastAPI + Beanie + LangChain + Gemini**.
+- Pipeline RAG con ChromaDB y `EmbeddingFactory` para modelos de Google
+- `guardian_prompt`: validador de seguridad y relevancia por rol (alumno/docente)
+- Observabilidad con **Prometheus**, alertas SMTP y pool de conexiones MongoDB optimizado
+- Endpoints de streaming con manejo de timeouts HTTP para LLMs
 
-- [LinkedIn](https://www.linkedin.com/in/gabriel-acosta-5495b5166/)
-- [Correo Electrónico](mailto:gabriacos@gmail.com)
+### 🔊 Whisper + PHI3 Integration
+Integración de **Whisper** (transcripción automática de audio) con el modelo de lenguaje **PHI3**.
+- Servidor FastAPI para transcripción · Express.js para integración con PHI3
+- Frontend con React + Vite
 
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en contactarme.
+### ⚖️ Sistema de Gestión de Expedientes Judiciales
+Sistema integral para la administración de casos, documentos y seguimiento de expedientes.
 
+### 📊 Sistema de Gestión de Informes
+Plataforma para creación, edición y análisis colaborativo de informes con visualización de datos.
+
+### 🎮 Live Wallpaper — Pixel Art NPC Office
+Proyecto personal en **Godot 4 + C#**: wallpaper animado con NPCs de arte pixel y máquinas de estado aleatorizadas.
+
+---
+
+## 📚 Docencia
+
+| Materia | Institución | Rol |
+|---|---|---|
+| Python para Ciencia de Datos | IPF | Docente Titular |
+| Seminario: Modelos y Aplicaciones de la IA | IPF | Docente Titular |
+
+---
+
+## 🎯 Objetivo
+
+Alcanzar un rol **mid/senior como Backend AI Engineer** y relocalizarme dentro de los próximos dos años.
+
+---
+
+## 🛠️ Tech Stack Completo
+
+```
+Languages:   Python · TypeScript · JavaScript · Go · C# · Bash
+Frameworks:  FastAPI · NestJS · Next.js · React · LangChain · Pydantic AI
+Databases:   MongoDB · PostgreSQL · MySQL · Redis · ChromaDB
+DevOps:      Docker · Git · Prometheus · Grafana
+OS/Env:      Arch Linux · Hyprland · Neovim · Fish Shell · Kitty
+```
+
+---
+
+## 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-acosta-5495b5166/)
+- 📧 [gabriacos@gmail.com](mailto:gabriacos@gmail.com)
+
+---
+
+<p align="center">
+  <i>Formosa, Argentina 🇦🇷 → 🌏</i><br>
+  <i>"Build systems that last. Ship AI that helps."</i>
+</p>
 
 <!---
 gabykap29/gabykap29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
