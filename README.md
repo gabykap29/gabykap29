@@ -1,6 +1,6 @@
 # 👋 Hola, soy Gabriel Acosta
 
-> **Backend AI Engineer** · Docente universitario · Arch Linux entusiasta 
+> **Backend AI Engineer** · Docente universitario · Linux entusiasta 
 
 Soy **Técnico Superior en Desarrollo de Software** y estudiante de la **Licenciatura en Ciencia de Datos** en el **Instituto Politécnico Formosa (IPF)**, donde también me desempeño como **docente titular** de *Python para Ciencia de Datos* y del seminario *Modelos y Aplicaciones de la IA*.
 
