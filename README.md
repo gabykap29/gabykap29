@@ -11,7 +11,7 @@ Con 4 años como desarrollador y experiencia sólida en backend con IA, me espec
 ## 🧠 Stack Principal
 
 **Backend & AI**
-- 🐍 Python · FastAPI · LangChain · Pydantic AI
+- 🐍 Python · FastAPI · LangChain · Pydantic AI · Langgraph   
 - 🤖 Google Gemini · ChromaDB (RAG) · Prometheus (observabilidad)
 - 🗄️ MongoDB (Beanie, Motor, Mongoose) · PostgreSQL · Redis
 - 📬 Bull Queue · AWS SES · Nodemailer
